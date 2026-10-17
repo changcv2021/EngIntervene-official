@@ -1,5 +1,8 @@
 # EngIntervene: Benchmarking Multimodal Engineering State Understanding and Design Intervention Reasoning
 
+<a href="https://arxiv.org/pdf/2609.33261">
+  <img src="https://img.shields.io/badge/READ%20PAPER-arXiv%202609.33261-DC2626?style=for-the-badge&labelColor=991B1B" height="38" alt="Read Paper">
+</a>
 
 ## Dataset on Hugging Face
 
